@@ -49,5 +49,5 @@ Software Development Engineer at Autodesk building scalable backend systems, clo
 
 ## 📫 Connect with me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Portfolio: https://your-portfolio-link
+- LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ravi-pandey1227/)
+- Portfolio: [https://your-portfolio-link](https://portfolio-tau-five-44.vercel.app/)
