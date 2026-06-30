@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ravi Pandey 👋
 
-<!--
-**ravi1215/ravi1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Engineer at Autodesk building scalable backend systems, cloud-native applications, and data platform solutions.
 
-Here are some ideas to get you started:
+## 💻 What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Engineering
+- Distributed Systems
+- Cloud & Data Platforms
+- System Design
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java
+- Python
+- JavaScript
+- SQL
+
+**Backend**
+- Spring Boot
+- FastAPI
+- Node.js
+- Express.js
+
+**Cloud & DevOps**
+- AWS
+- Docker
+- Kubernetes
+- Apache Iceberg
+
+**Frontend**
+- React
+- TypeScript
+
+## 🚀 Featured Projects
+
+- 🤖 AIJobSearch – AI-powered job discovery and interview preparation platform
+- 🔗 URL Shortener – Scalable URL shortening service with analytics and QR generation
+- 🌱 Crop Recommendation System – Machine learning-powered precision agriculture platform
+- 🌐 Portfolio – Personal portfolio showcasing projects and experience
+
+## 🌱 Currently Learning
+
+- Apache Spark
+- Distributed Systems
+- Cloud Data Engineering
+- Large Scale System Design
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Portfolio: https://your-portfolio-link
